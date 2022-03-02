@@ -2,7 +2,7 @@
 
 layout: page
 title: "Learn More"
-permalink: https://cmiya.github.io/spokenWebSite/about
+permalink: https://cmiya.github.io/spokenWebSite/about/learnmore
 
 ----
 
