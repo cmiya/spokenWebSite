@@ -1,8 +1,12 @@
+---
+
 layout: page
-title: "About Us"
+title: "Learn More"
 permalink: https://cmiya.github.io/spokenWebSite/about
 
-About the SpokenWeb Project
+----
+
+## About the SpokenWeb Project
 
 Since the introduction of portable tape recording media technologies in the 1960s, writers and artists have been documenting their performances of literary works, events and conversations with creative abandon. Yet, most of these audio archives remain inaccessible or in peril of imminent decay, or, if digitized, are still largely disconnected from each other. The SSHRC-funded SpokenWeb partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond.
 
